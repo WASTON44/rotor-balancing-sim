@@ -4,25 +4,8 @@ An interactive simulator for static & dynamic balancing of rotating masses — b
 
 Plain HTML/CSS/JS, no build step, no dependencies (besides Google Fonts).
 
-## Files
+<img width="1644" height="853" alt="image" src="https://github.com/user-attachments/assets/70269072-7f1f-4a63-b7c1-441bbf77a034" />
 
-- `index.html` — page shell
-- `style.css` — styling (light theme)
-- `app.js` — state, physics/geometry, and rendering
-
-## Run locally
-
-Serve the folder with any static file server, e.g.:
-
-```
-python3 -m http.server 8000
-```
-
-then open `http://localhost:8000/`.
-
-## Deploy to GitHub Pages
-
-Settings → Pages → Deploy from branch → `main` / `/ (root)`. The site will be served from `index.html` at the repo root — no build step required.
 
 ## Embedding
 
